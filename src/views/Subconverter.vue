@@ -210,7 +210,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "http://127.0.0.1:25500/sub?" }],
+        backendOptions: [{ value: "https://subconverter-h6cu.onrender.com/sub?" },{ value: "https://subconverter.alterkoo.tk/sub?" }],
         remoteConfig: [
           {
             label: "universal",
