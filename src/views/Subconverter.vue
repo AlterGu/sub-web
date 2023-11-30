@@ -210,7 +210,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "http://146.56.129.89:12333/sub?" },{ value: "http://146.56.129.89:12333/sub?" }],
+        backendOptions: [{ value: "http://sub.ikun520.free.hr:12333/sub?" }],
         remoteConfig: [
           {
             label: "ACL4SSR",
