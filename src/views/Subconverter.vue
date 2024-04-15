@@ -211,7 +211,7 @@ export default {
           V2Ray: "v2ray",
           Trojan: "trojan",
         },
-        backendOptions: [{ value: "http://sub.alterkoo.tk:12333/sub?" }],
+        backendOptions: [{ value: "https://sub.alterkoo.tk/sub?" }],
         remoteConfig: [
           {
             label: "ACL4SSR",
